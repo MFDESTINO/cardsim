@@ -32,7 +32,8 @@ Ex: Eu quero que poder jogar com amigos
 -   chat no lobby
 -   chat direto
 -   jogar com random
--   jogar ranqueado   
+-   jogar ranqueado
+   
 
 ### Requisitos Funcionais
 
