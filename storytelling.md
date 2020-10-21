@@ -14,13 +14,25 @@ Ex: Eu quero que poder jogar com amigos
 ### Storytelling
 
 -   O usuario pode jogar vários jogos de cartas
--   O usuario se relaciona ao vivo com outros usuarios
--   O usuario não precisa se cadastrar
+-   O usuario precisa se cadastrar
 -   O usuario pode escolher um nick, desde que esse ja não esteja
     sendo usado
--   O usuario pode jogar diversos jogos de cartas
 -   O usuario pode ver quantas pessoas estão jogando cada jogo
-
+-   Sistema de mesas para separar as salas
+-   Convidar os amigos com link/convite
+-   Escolher entre jogos : 21, truco
+-   Escolher jogo no lobby
+-   o dono da sala pode banir
+-   personalizar as cartas e mesas
+-   servidor com alta disponibilidade
+-   usuario joga iphone/android
+-   pessoas podem criar jogos
+-   acesso privilegiado ao admin
+-   mestre da mesa
+-   chat no lobby
+-   chat direto
+-   jogar com random
+-   jogar ranqueado   
 
 ### Requisitos Funcionais
 
